@@ -1,6 +1,6 @@
-# Page Title
+# Roquibat.A
 
-A short introduction for the top of your main page
+My mane is Roquibat im 16 i graduated high school in 2023 and i am a computer science major at The Univerisity of Rhode island. 
 
 
 More content you want on your page
