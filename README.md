@@ -1,3 +1,10 @@
+# Profile Website
+
+Welcome to my profile webiste, 
+<!-- enter your target audience after the comma above -->
+
+Since you're here, you might be: 
+<!-- make a bulleted list of 3 fictional visitors to your site. Include a few detials about them that could impact how you design for them. For each visitor, assign a task or goal they have for visiting your profile website -->
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=11521214)
 # Sphinx Profile Page
 
