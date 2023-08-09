@@ -72,7 +72,7 @@ html_static_path = ['_static']
 #  "page_file_name": ["list.html", "of.html", "sidebar.html", "files.html"]
 html_sidebars = {
     "index": ["hello.html"],
-    "about": ["hello.html"],
+    "Aboutme": ["aboutsidebar.html"],
     "resume": ["hello.html"],
     "news": ["hello.html", 'ablog/archives.html'],
     "news/**": ['ablog/postcard.html', 'ablog/recentposts.html', 'ablog/archives.html'],
