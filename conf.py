@@ -45,7 +45,9 @@ html_theme = 'pydata_sphinx_theme'
 
 import yaml
 with open ('info.yml','r') as f:
-    html_context = yaml.safe_load(f)
+    html_context = {
+   "default_mode": "dark"
+}
 
 
 html_theme_options = {
