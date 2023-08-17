@@ -1,6 +1,6 @@
-# Roquibat.A
+# Roquibat Adetunji
 
-My mane is Roquibat im 16 i graduated high school in 2023 and i am a computer science major at The Univerisity of Rhode island. 
+My name is Roquibat i am a computer science major at The Univerisity of Rhode island. This is my first website.  
 
 
 
